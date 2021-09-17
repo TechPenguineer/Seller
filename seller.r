@@ -1,3 +1,4 @@
 # Sets the maximum height range
 
-y_range = -500000:100000
+y_range <- -100:100
+print(y_range)
